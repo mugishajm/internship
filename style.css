@@ -1,0 +1,97 @@
+
+*{
+    padding:0%;
+    margin:0%;
+}
+.one{
+    display: block;
+    
+}
+.start{
+    display: flex;
+    height: 150px;
+}
+.start1{
+    width: 80%;
+    background-color:black;
+}
+.icon{
+    width: 20%;
+
+}
+.icon img{
+    padding-top: 30px;
+    padding-left: 130px;
+    height: 90px;
+
+}
+
+.start2{
+    display: flex;
+    margin: 30px;
+}
+.title{
+width: 70%;
+font-size: 50px;
+text-decoration: none;
+
+}
+.name{
+width: 25%;
+display: flex;
+padding-left: 10px;
+}
+.title a{
+text-decoration: none;
+color: black;
+
+}
+.name a{
+    padding-left: 80px;
+    font-size: 50px;
+text-decoration: none;
+color: black;
+
+}
+.kala{
+    color: red;
+}
+
+.pics{
+    display: flex;
+    
+   
+}
+.pics img{
+    margin: 80px;
+    width: 1200px;
+    height: 1500px;
+    margin-top: 100px;
+    box-shadow: 0 8px 20px red;
+
+}
+
+.life{
+
+    margin-left: 43%;
+    margin-top: -180px;
+}
+.life a{
+    display: block;
+    text-decoration: none;
+    font-size: 100px;
+    color: black;
+}
+.foo a{
+text-decoration: none;
+font-size: 50px; 
+color: black;
+
+
+}
+.foo{
+    background-color: coral;
+    font-size: 50px; 
+}
+
+
